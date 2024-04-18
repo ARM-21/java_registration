@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1129803-e12d-431c-b2fb-4fe93fe20794" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/main_classes/EntryGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/main_classes/EntryGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Development/com/utilities_for_coursework/FrameForDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/FrameForDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Development/com/utilities_for_coursework/FrameForGradeScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/FrameForGradeScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Development/com/utilities_for_coursework/FrameForLecturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/FrameForLecturer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Development/com/utilities_for_coursework/FrameForTutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/FrameForTutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/EntryGui$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/EntryGui$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/EntryGui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/EntryGui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForGradeScore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForGradeScore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForTutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForTutor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
